@@ -1,0 +1,5 @@
+"Name","Scope","Compliance state","Resource compliance","Non-compliant resources","Non-compliant policies"
+"NIST CSF v2.0","Tenant Root Group","Non-compliant","26% (5 out of 19)","14","18"
+"NIST SP 800-53 Rev. 5","Tenant Root Group","Non-compliant","0% (0 out of 2)","2","23"
+"Secure transfer to storage accounts should be enabled","Azure subscription 1","Compliant","100% (1 out of 1)","0","0"
+"Storage account public access should be disallowed","Azure subscription 1","Compliant","100% (1 out of 1)","0","0"
