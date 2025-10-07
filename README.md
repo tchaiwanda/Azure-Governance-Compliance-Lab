@@ -74,7 +74,7 @@ It showcases my ability to **configure, monitor, and enforce Azure Policy**, app
 
 ![Security Policies](Screenshots/default_seurity_policies.png)
 
-# Policy Compliance Dashboard BEFOR & AFTER Implementation
+# Policy Compliance Dashboard BEFORE & AFTER Implementation
 
 ![Policy Compliance Dashboard](Screenshots/azure_policy_compliance_dashboard.png)
 
