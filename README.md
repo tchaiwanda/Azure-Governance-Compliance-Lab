@@ -1,4 +1,11 @@
 ⚠️ Educational use only. Test on devices/networks you own or have explicit permission to assess. Comply with local laws.
+Disclaimer ⚠️
+
+All information, data, and content included in this project are entirely fictional and fabricated for educational purposes only. 🎓 This project is intended solely for use in a controlled lab environment 🧪 and is not representative of real-world scenarios, entities, or events. Any resemblance to real persons, organizations, or situations is purely coincidental. 🔍
+
+The project is meant for learning, experimentation, and demonstration purposes only and should not be used for any other purpose outside of a lab or educational context. 📚
+
+By using this project, you acknowledge that the information presented is not factual, and it should not be applied to real-world situations without further validation and verification. ✔️
 
 # 🌐 Azure Governance & Compliance Lab
 
@@ -74,7 +81,7 @@ It showcases my ability to **configure, monitor, and enforce Azure Policy**, app
 
 ![Security Policies](Screenshots/default_seurity_policies.png)
 
-# Policy Compliance Dashboard BEFOR & AFTER Implementation
+# Policy Compliance Dashboard BEFORE & AFTER Implementation
 
 ![Policy Compliance Dashboard](Screenshots/azure_policy_compliance_dashboard.png)
 
